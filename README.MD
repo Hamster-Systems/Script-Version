@@ -1,0 +1,1 @@
+This is only used for version checking to Hamster Studios//Hamster Systens script's.
