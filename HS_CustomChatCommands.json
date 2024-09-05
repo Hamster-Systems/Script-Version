@@ -1,4 +1,4 @@
 {
-    "NewestVersion": "1.0.2",
-    "Changes": "Added Twitter Commands."
+    "NewestVersion": "1.0.3",
+    "Changes": "Added QBCore Related Features - If QBCore enabled /name will not work and commands will take character names."
 }
