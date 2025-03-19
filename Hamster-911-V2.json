@@ -1,4 +1,4 @@
 {
-    "NewestVersion": "1.0.0",
-    "Changes": "Added /911 command with call details, blip creation/removal, cooldown system, Discord webhook integration."
+    "NewestVersion": "1.0.1",
+    "Changes": "Added /311 command along with blips and did some fine adjustments to the 911 command"
 }
