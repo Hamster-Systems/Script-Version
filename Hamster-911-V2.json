@@ -1,0 +1,4 @@
+{
+    "NewestVersion": "1.0.0",
+    "Changes": "Added /911 command with call details, blip creation/removal, cooldown system, Discord webhook integration."
+}
